@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The Learning Lab
-email: matheus9d6@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is were my learning process beggin.
 baseurl: "the_learning_lab" # the subpath of your site, e.g. /blog
